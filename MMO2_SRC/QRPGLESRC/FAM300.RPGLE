@@ -5,7 +5,7 @@
 
      FFAMILLY   if   e           k disk    usropn
 
-      /COPY ../QPROTOSRC/FAMILLY.RPGLE
+      /COPY ../QPROTOSRC/FAMILLY.RPGLEINC
 
      d chainFAMILLY    pr
      D P_FAID                         3     value

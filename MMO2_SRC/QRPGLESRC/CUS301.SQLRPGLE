@@ -10,7 +10,7 @@
      D INFO            DS
      D  LRRN                 378    379B 0
 
-      /COPY ../QPROTOSRC/CUSTOMER.RPGLE
+      /COPY ../QPROTOSRC/CUSTOMER.RPGLEINC
 
      D indds           ds
      D  help                   1      1n

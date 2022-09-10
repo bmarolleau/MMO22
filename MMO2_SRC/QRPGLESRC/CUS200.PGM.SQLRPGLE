@@ -32,7 +32,7 @@
      F                                     sfile(sfl01:rrn01)
      F                                     Infds(Info)
 
-      /COPY ../QPROTOSRC/COUNTRY.RPGLE
+      /COPY ../QPROTOSRC/COUNTRY.RPGLEINC
 
      d orders          pr                  extpgm('ORD200')
      d  id                                 like(cuid)

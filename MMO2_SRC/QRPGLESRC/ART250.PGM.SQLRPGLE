@@ -10,9 +10,9 @@
        dcl-f  article1 disk keyed;
        dcl-f  artipro2 disk keyed;
 
-      /COPY ../QPROTOSRC/FAMILLY.RPGLE
-      /COPY ../QPROTOSRC/ARTICLE.RPGLE
-      /COPY ../QPROTOSRC/VAT.RPGLE
+      /COPY ../QPROTOSRC/FAMILLY.RPGLEINC
+      /COPY ../QPROTOSRC/ARTICLE.RPGLEINC
+      /COPY ../QPROTOSRC/VAT.RPGLEINC
 
        dcl-pr Providers extpgm('ART201');
          id   like(arid);

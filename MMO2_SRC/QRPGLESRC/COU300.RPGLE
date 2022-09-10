@@ -5,7 +5,7 @@
 
      FCOUNTRY   if   e           k disk    usropn
 
-      /COPY ../QPROTOSRC/COUNTRY.RPGLE
+      /COPY ../QPROTOSRC/COUNTRY.RPGLEINC
 
      d chainCOUNTRY    pr
      D P_COID                         2A    value

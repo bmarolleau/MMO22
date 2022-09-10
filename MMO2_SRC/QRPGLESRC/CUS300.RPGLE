@@ -5,7 +5,7 @@
 
      FCUSTOME1  if   e           k disk    usropn
 
-      /COPY ../QPROTOSRC/CUSTOMER.RPGLE
+      /COPY ../QPROTOSRC/CUSTOMER.RPGLEINC
 
      d chainCUSTOME1   pr
      D P_CUID                         5  0  value

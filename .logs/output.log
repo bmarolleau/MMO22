@@ -1,7 +1,7 @@
-21:20:49.681 [INFO] Connecting locally to instance AD/ENG.
-21:20:50.707 [INFO] Connected to Arcad Server instance AD/ENG version 22.01.00 with CCSID 37
-21:20:51.252 [INFO] Starting project synchronization
-21:20:52.038 [INFO] Configuration summary:
+21:51:33.155 [INFO] Connecting locally to instance AD/ENG.
+21:51:34.121 [INFO] Connected to Arcad Server instance AD/ENG version 22.01.00 with CCSID 37
+21:51:34.620 [INFO] Starting project synchronization
+21:51:35.405 [INFO] Configuration summary:
 	- Repository: git@github.com:bmarolleau/MMO22.git
 	- Branch: feature/Myfirstfeature
 	- Application: MMO2
@@ -10,32 +10,32 @@
 	- Target version: MMO2 DEV SB.00.00
 	- Hash comparison: MD5
 	- Synchronization type: SANDBOX
-21:20:52.038 [INFO] Preparing transfer operations
-21:20:52.515 [INFO] Created 16 transfer operation(s)
-21:20:52.660 [INFO] Nothing to transfer to QRPGLESRC; all transfers were skipped.
-21:20:52.661 [INFO] Nothing to transfer to QRPGSRC; all transfers were skipped.
-21:20:52.662 [INFO] Nothing to transfer to QDTASRC; all transfers were skipped.
-21:20:52.662 [INFO] Nothing to transfer to QMSGFSRC; all transfers were skipped.
-21:20:52.662 [INFO] Nothing to transfer to QDDSSRC; all transfers were skipped.
-21:20:52.664 [INFO] Transferring 1 member(s) to file QCLSRC; 3 skipped
-21:20:54.040 [INFO] Transfer to file QCLSRC complete
-21:20:54.042 [INFO] Nothing to transfer to QILESRC; all transfers were skipped.
-21:20:54.042 [INFO] Nothing to transfer to QILESRVSRC; all transfers were skipped.
-21:20:54.042 [INFO] Nothing to transfer to QPNLSRC; all transfers were skipped.
-21:20:54.042 [INFO] Nothing to transfer to QCMDSRC; all transfers were skipped.
-21:20:54.043 [INFO] Nothing to transfer to QSQLSRC; all transfers were skipped.
-21:20:54.043 [INFO] Nothing to transfer to QTRGSRC; all transfers were skipped.
-21:20:54.043 [INFO] Nothing to transfer to QSRVSRC; all transfers were skipped.
-21:20:54.044 [INFO] Nothing to transfer to QPROTOSRC; all transfers were skipped.
-21:20:54.044 [INFO] Nothing to transfer to QCBLSRC; all transfers were skipped.
-21:20:54.044 [INFO] Nothing to transfer to QBNDSRC; all transfers were skipped.
-21:20:54.184 [INFO] Exported transfers list to /ArcADSCM/MMO2/SB.00.00/transfersList.json
-21:20:54.185 [INFO] Duration: 2 second(s)
-21:20:54.214 [INFO] Running unitary compilation for 1 component(s)
-21:20:54.795 [INFO] Created Smart Compiler list MO2SB0000/SMARTCPL with 1 component(s) to compile:
-	- ORD100C (CLLE/*CLLE)
-21:20:55.666 [INFO] Waiting for compilations to end...
-21:20:56.624 [INFO] 0 component(s) successfully compiled
-21:20:56.625 [INFO] Writing compilation logs
-21:20:56.636 [INFO] Writing 1 spooled file(s)
-21:20:56.667 [INFO] Writing 0 event file(s)
+21:51:35.406 [INFO] Preparing transfer operations
+21:51:35.882 [INFO] Created 16 transfer operation(s)
+21:51:36.022 [INFO] Transferring 1 member(s) to file QRPGLESRC; 36 skipped
+21:51:37.384 [INFO] Transfer to file QRPGLESRC complete
+21:51:37.386 [INFO] Nothing to transfer to QRPGSRC; all transfers were skipped.
+21:51:37.386 [INFO] Nothing to transfer to QDTASRC; all transfers were skipped.
+21:51:37.386 [INFO] Nothing to transfer to QMSGFSRC; all transfers were skipped.
+21:51:37.387 [INFO] Nothing to transfer to QDDSSRC; all transfers were skipped.
+21:51:37.387 [INFO] Nothing to transfer to QCLSRC; all transfers were skipped.
+21:51:37.387 [INFO] Nothing to transfer to QILESRC; all transfers were skipped.
+21:51:37.387 [INFO] Nothing to transfer to QILESRVSRC; all transfers were skipped.
+21:51:37.388 [INFO] Nothing to transfer to QPNLSRC; all transfers were skipped.
+21:51:37.388 [INFO] Nothing to transfer to QCMDSRC; all transfers were skipped.
+21:51:37.388 [INFO] Nothing to transfer to QSQLSRC; all transfers were skipped.
+21:51:37.389 [INFO] Nothing to transfer to QTRGSRC; all transfers were skipped.
+21:51:37.389 [INFO] Nothing to transfer to QSRVSRC; all transfers were skipped.
+21:51:37.389 [INFO] Nothing to transfer to QPROTOSRC; all transfers were skipped.
+21:51:37.389 [INFO] Nothing to transfer to QCBLSRC; all transfers were skipped.
+21:51:37.390 [INFO] Nothing to transfer to QBNDSRC; all transfers were skipped.
+21:51:37.572 [INFO] Exported transfers list to /ArcADSCM/MMO2/SB.00.00/transfersList.json
+21:51:37.573 [INFO] Duration: 2 second(s)
+21:51:37.598 [INFO] Running unitary compilation for 1 component(s)
+21:51:38.095 [INFO] Created Smart Compiler list MO2SB0000/SMARTCPL with 1 component(s) to compile:
+	- ART200 (SQLRPGLE/*SQLRPI)
+21:51:38.979 [INFO] Waiting for compilations to end...
+21:51:39.937 [INFO] 0 component(s) successfully compiled
+21:51:39.938 [INFO] Writing compilation logs
+21:51:39.957 [INFO] Writing 1 spooled file(s)
+21:51:39.983 [INFO] Writing 0 event file(s)

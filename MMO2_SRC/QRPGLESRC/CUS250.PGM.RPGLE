@@ -6,8 +6,8 @@
        Dcl-F  cus250d workstn   indds(indds);
        dcl-f  custome1 disk keyed;
 
-      /COPY ../QPROTOSRC/CUSTOMER.RPGLE
-      /COPY ../QPROTOSRC/COUNTRY.RPGLE
+      /COPY ../QPROTOSRC/CUSTOMER.RPGLEINC
+      /COPY ../QPROTOSRC/COUNTRY.RPGLEINC
 
        Dcl-Ds indds;
          help            Ind             Pos(1);

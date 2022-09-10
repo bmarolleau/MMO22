@@ -11,7 +11,7 @@
      F                                     sfile(sfl01:rrn01)
      F                                     Infds(Info)
 
-      /COPY ../QPROTOSRC/FAMILLY.RPGLE
+      /COPY ../QPROTOSRC/FAMILLY.RPGLEINC
 
      d providers       pr                  extpgm('ART201')
      d  id                                 like(arid)

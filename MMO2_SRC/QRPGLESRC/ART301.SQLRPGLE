@@ -10,8 +10,8 @@
      D INFO            DS
      D  LRRN                 378    379B 0
 
-      /COPY ../QPROTOSRC/ARTICLE.RPGLE
-      /COPY ../QPROTOSRC/FAMILLY.RPGLE
+      /COPY ../QPROTOSRC/ARTICLE.RPGLEINC
+      /COPY ../QPROTOSRC/FAMILLY.RPGLEINC
 
      D indds           ds
      D  help                   1      1n
